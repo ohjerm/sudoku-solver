@@ -31,6 +31,7 @@ Currently, it cannot solve sudokus that require a guess. I tested it on puzzles 
 Well, two things are missing:
 1. The ability to solve "guesswork" puzzles, and
 2. The generator. It doesn't work.
+3. The way to input a sudoku puzzle is tedious and should be fixed.
 
 ## Contributing
 
